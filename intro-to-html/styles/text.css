@@ -1,0 +1,49 @@
+.thiru{
+    font-family: Arial;
+    font-weight: bold;
+    width: 280px;
+    font-size: 18px;
+    margin-bottom: 0;
+    line-height: 22px;
+}
+.bhanu{
+    font-family: Arial;
+    color: gray;
+    margin-top: 0;
+    font-size: 14px;
+    margin-bottom:18px;
+}
+.sarath{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+.sai{
+    font-family: Arial;
+    color: gray;
+    font-size: 14px;
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+
+}
+.azad{
+    font-family: Arial;
+    background-color: red;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+.hi{
+    cursor: pointer;
+}
+.hi:hover{
+    text-decoration: underline;
+}
